@@ -5,7 +5,7 @@ Hi, I'm Guru Pawar, a passionate frontEnd web developer from India.
 ## I am passionate about:
 
 - Web Develpoment
-- Graphics Desinging
+- Graphics Designing
 - Android Dev
 - Gaming
 
@@ -18,7 +18,6 @@ Hi, I'm Guru Pawar, a passionate frontEnd web developer from India.
 
 <img src="https://img.shields.io/badge/Illustrator -ff7b19" /> <img src="https://img.shields.io/badge/Photoshop -30a8fe" />
 
-</br>
 </br>
 <details>
 	<summary>Tools</summary>
