@@ -16,8 +16,7 @@ Hi, I'm Guru Pawar, a passionate frontEnd web developer from India.
 <img src="https://img.shields.io/badge/SCSS -FF0000" />  
 <img src="https://img.shields.io/badge/Tailwind CSS -1cc4b4" />
 
-<img src="https://img.shields.io/badge/Illustrator -ff7b19" />
-<img src="https://img.shields.io/badge/Photoshop -30a8fe" />
+<img src="https://img.shields.io/badge/Illustrator -ff7b19" /> <img src="https://img.shields.io/badge/Photoshop -30a8fe" />
 
 </br>
 </br>
@@ -42,7 +41,6 @@ Hi, I'm Guru Pawar, a passionate frontEnd web developer from India.
 </br>
 </br>
 <a href="#"><img src="https://img.shields.io/badge/🔽Download_My_CV-002366"/></a>
-<a href="mailto:ENTER YOUR EMAIL HERE"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ENTER YOUR EMAIL HERE" alt="Gmail"></a>
 <a href="#"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="#"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="#"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
